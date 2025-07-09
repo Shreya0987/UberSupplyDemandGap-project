@@ -1,1 +1,1 @@
-# This ia a EDA and excel project
+# This ia an EDA and excel project
